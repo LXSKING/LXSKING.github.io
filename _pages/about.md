@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='VnJ0pkYAAAAJ'></span>
 
 刘旭昇，男，1994年1月生，湖北医药学院医学影像与核医学硕士，太和医院核医学科主治医师/助教。主要从事核医学SPECT/CT、PET/CT分子功能影像诊断；肿瘤分子靶向功能影像诊断和治疗研究等。参与国家自然科学基金1项，主持省级课题1项。曾荣获“十堰市优秀共青团干部”、“湖北医药学院优秀共产党员”、“湖北医药学院杏林英才”和“十堰市太和医院医师节优秀初级医师”等多种称号。
 
