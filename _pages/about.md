@@ -19,7 +19,7 @@ redirect_from:
 
 刘旭昇，男，1994年1月生，湖北医药学院医学影像与核医学硕士，太和医院核医学科主治医师/助教。主要从事核医学SPECT/CT、PET/CT分子功能影像诊断；肿瘤分子靶向功能影像诊断和治疗研究等。参与国家自然科学基金1项，主持省级课题1项。曾荣获“十堰市优秀共青团干部”、“湖北医药学院优秀共产党员”、“湖北医药学院杏林英才”和“十堰市太和医院医师节优秀初级医师”等多种称号。
 
-主要研究方向为基于糖酵解代谢重编程的肿瘤分子标志物识别与精准诊疗策略研究。在国内外期刊发表论文30余篇，近5年来以第一作者或通讯作者发表SCI论文20篇，累计影响因子近100分<a href='https://scholar.google.com/citations?user=VnJ0pkYAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?hl=zh-CN&user=VnJ0pkYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+主要研究方向为基于糖酵解代谢重编程的肿瘤分子标志物识别与精准诊疗策略研究。在国内外期刊发表论文30余篇，近5年来以第一作者或通讯作者发表SCI论文20篇，累计影响因子近100分<a href='https://scholar.google.com/citations?user=VnJ0pkYAAAAJ'>谷歌学术引用<strong><span id='total_cit'>400+</span></strong></a> <a href='https://scholar.google.com/citations?hl=zh-CN&user=VnJ0pkYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)。
 
 
 # 🔥 News
