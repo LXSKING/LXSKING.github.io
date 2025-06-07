@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xu-Sheng Liu"
-description              : # "主要研究方向：基于糖酵解代谢重编程的肿瘤分子标志物识别与精准诊疗策略研究。"
+description              : #"主要研究方向：基于糖酵解代谢重编程的肿瘤分子标志物识别与精准诊疗策略研究。"
 repository               : "LXSKING/LXSKING.github.io"
 google_scholar_stats_use_cdn : true
 
