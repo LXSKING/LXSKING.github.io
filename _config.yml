@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xu-Sheng Liu 刘旭昇"
+  name             : "Xu-Sheng Liu<br>(刘旭昇)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Hubei University of Medicine"
   location         : "Shiyan, China"
