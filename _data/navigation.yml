@@ -3,29 +3,29 @@ main:
   - title: "About me"
     url: "/#about-me"
 
-  - title: "Project"
-    url: "/#-Projects"
+  - title: "Projects"
+    url: "/#-projects"
 
-  - title: "Achievement"
-    url: "/#-Achievements"
+  - title: "Achievements"
+    url: "/#-achievements"
     
-  - title: "Educational project"
-    url: "/#-Educational-projects"
+  - title: "Educational projects"
+    url: "/#-educational-projects"
 
-  - title: "Patent"
-    url: "/#-Patents"
+  - title: "Patents"
+    url: "/#-patents"
     
-  - title: "Competition Award"
-    url: "/#-Competition-Awards"
+  - title: "Competition Awards"
+    url: "/#-competition-awards"
 
-  - title: "Honor"
-    url: "/#-Honors"
+  - title: "Honors"
+    url: "/#-honors"
     
-  - title: "Academic Position"
-    url: "/#-Academic-Positions"
+  - title: "Academic Positions"
+    url: "/#-academic-positions"
     
   - title: "Education"
-    url: "/#-Education"
+    url: "/#-education"
 
 
 
