@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='简介'></span>
+<span class='anchor' id='about me'></span>
 
 刘旭昇，男，1994年1月生，湖北医药学院医学影像与核医学硕士，太和医院核医学科主治医师/助教。主要从事核医学SPECT/CT、PET/CT分子功能影像诊断；肿瘤分子靶向功能影像诊断和治疗研究等。参与国家自然科学基金1项，主持省级课题1项。曾荣获“十堰市优秀共青团干部”、“湖北医药学院优秀共产党员”、“湖北医药学院杏林英才”和“十堰市太和医院医师节优秀初级医师”等多种称号。
 
@@ -26,7 +26,7 @@ redirect_from:
 🔥主要研究方向：
 基于糖酵解代谢重编程的肿瘤分子标志物识别与精准诊疗策略研究。
 
-# 📒 自然科学项目
+# 📒 Projects
 1. 湖北省肝癌精准诊疗临床医学研究中心，一般项目，2024LCOF08，RAB3B作为肝细胞癌预后生物标志物通过调控GPI介导糖酵解能力影响肿瘤进展的机制研究，2024.01.01至2025.12.31，1.0万元，在研，主持
 2. 湖北医药学院附属太和医院，一般项目，2024JJXM087，肺腺癌中 DARS2 的表达及其与肿瘤进展的机制研究，2024-01-01至2025-12-31，0.8万元，在研，主持
 3. 湖北省教育厅, 优秀中青年科技创新团队, T2020025, 基于HSCs靶向DNA适配体的肝纤维化诊、疗一体化体系建立的研究, 2020-01至2023-12, 20万元, 已结题, 参加
@@ -36,7 +36,7 @@ redirect_from:
 7. 湖北医药学院, 研究生科技创新项目, YC2019039, 肝癌靶向载体scrAAV3介导基因治疗可视化的实验研究, 2019-03至2020-06, 2万元, 已结题, 主持
 8. 国家自然科学基金委员会, 青年项目, 81401447, 心肌特异性启动子引导的多模态报告基因显像活体监测干细胞移植治疗缺血性心脏疾病的显像研究, 2015-01至2017-12, 23万元, 已结题, 参加
 
-<h1 id="代表性成果">📝 代表性成果</h1>
+# 📝 Achievements
 1. **Liu X S**, Xu Y, Dai L S, et al. The potential of MCM8 as a biomarker in esophageal carcinoma: a comprehensive analysis integrating m6a methylation and angiogenesis[J/OL]. European Journal of Medical Research, 2025, 30(1): 373. DOI:10.1186/s40001-025-02541-3.
 2. **Liu X S**, Pei Z J. 18F-FDG PET/CT in the diagnosis and treatment of atypical extensive skin lesions in extranodal natural killer/T-cell lymphoma, nasal type: a case report[J/OL]. Frontiers in Oncology, 2025, 15. DOI:10.3389/fonc.2025.1480661.
 3. **Liu X S**, Xie J, Wu R M, et al. Expression patterns of MCM8 in lung adenocarcinoma and its correlation with key biological processes[J/OL]. European Journal of Medical Research, 2025, 30(1): 149. DOI:10.1186/s40001-025-02407-8.
@@ -61,21 +61,21 @@ redirect_from:
 22. **Liu X S**, Yuan L L, Gao Y, et al. Overexpression of METTL3 associated with the metabolic status on 18F-FDG PET/CT in patients with Esophageal Carcinoma[J/OL]. Journal of Cancer, 2020, 11(16): 4851-4860. DOI:10.7150/jca.44754.
 23. **Liu X**, Huang H, Gao Y, et al. Visualization of gene therapy with a liver cancer-targeted adeno-associated virus 3 vector[J/OL]. Journal of Cancer, 2020, 11(8): 2192-2200. DOI:10.7150/jca.39579.
 
-# 📚 教研项目
+# 📚 Educational projects
 1. 湖北医药学院研究生院，教育教学研究项目，YJ2025082，基于OBE理念的BOPPPS教学模式在核医学专业研究生科研能力培养的研究与实践，2025.04.10至2027.04.10，0.1万元，在研，主持
 2. 湖北医药学院, 校级项目, YHJ2024011, 基于OBE理念的核医学专业型硕士研究生教育质量评价体系构建与实践, 2024-01-01至2025-12-31, 0.8万元, 在研, 主持
 
-# 📄 专利
+# 📄 Patents
 1. 高燕, 裴之俊, 刘旭昇. 一种18F-FDG PET/CT代谢参数在构建相应肿瘤预测系统方面的应用: ZL202210482438.2[P]. 2025-04-08. 已授权
 
-# 🎖 竞赛获奖
+# 🎖 Competition Awards
 1. 2024年第十六届中南六省（区）核医学学术交流会《核医学分子影像医师阅片竞赛》三等奖
 2. 2023年“襄十随神”城市群第二届自然科学优秀学术论文成果已发表类三等奖
 3. 2023年“襄十随神”城市群第二届自然科学优秀学术论文成果已发表类二等奖
 4. 2023年“核医好医”PET/CT全国病例大赛(中部赛区)探索之星奖
 5. 2022年“襄十随神”城市群首届自然科学优秀学术论文成果已发表类三等奖
 
-# 👑 个人荣誉
+# 👑 Honors
 1. 2022年十堰市太和医院医师节“优秀初级医师”
 2. 2020年湖北医药学院2019年度“十佳青年”
 3. 2020年湖北医药学院2019年度“杏林英才”
@@ -86,11 +86,11 @@ redirect_from:
 8. 2013年湖北省大中专学生志愿者暑期“三下乡”社会实践活动“先进个人”
 9. 2013年十堰市“优秀共青团干部”
 
-# 👨‍🎓 学术任职
+# 👨‍🎓 Academic Positions
 1. 2025年Medicine Advances杂志青年编委
 2. 2023年Cancer Advances杂志青年编委
 
-# 📖 教育经历
+# 📖 Education
 - 湖北医药学院；硕士；2017.09-2020.06
 - 湖北医药学院药护学院；本科；2012.09-2016.06 
 
