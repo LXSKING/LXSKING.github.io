@@ -1,28 +1,31 @@
 # main links links
 main:
-  - title: "简介"
-    url: "/#简介"
+  - title: "About me"
+    url: "/#about-me"
 
-  - title: "自然科学项目"
-    url: "/#-自然科学项目"
+  - title: "Project"
+    url: "/#-Projects"
 
-  - title: "代表性成果"
-    url: "/代表性成果"
+  - title: "Achievement"
+    url: "/#-Achievements"
     
-  - title: "教研项目"
-    url: "/#-教研项目"
+  - title: "Educational project"
+    url: "/#-Educational-projects"
 
-  - title: "专利"
-    url: "/#-专利"
+  - title: "Patent"
+    url: "/#-Patents"
     
-  - title: "竞赛获奖"
-    url: "/#-竞赛获奖"
+  - title: "Competition Award"
+    url: "/#-Competition-Awards"
+
+  - title: "Honor"
+    url: "/#-Honors"
     
-  - title: "学术任职"
-    url: "/#-学术任职"
+  - title: "Academic Position"
+    url: "/#-Academic-Positions"
     
-  - title: "教育经历"
-    url: "/#-教育经历"
+  - title: "Education"
+    url: "/#-Education"
 
 
 
