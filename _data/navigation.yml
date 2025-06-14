@@ -3,8 +3,8 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Project"
-    url: "/#-Project"
+  - title: "自然科学项目"
+    url: "/#-自然科学项目"
 
   - title: "Publications"
     url: "/#-publications"
