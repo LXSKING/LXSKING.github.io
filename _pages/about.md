@@ -61,9 +61,12 @@ redirect_from:
 22. **Liu X S**, Yuan L L, Gao Y, et al. Overexpression of METTL3 associated with the metabolic status on 18F-FDG PET/CT in patients with Esophageal Carcinoma[J/OL]. Journal of Cancer, 2020, 11(16): 4851-4860. DOI:10.7150/jca.44754.
 23. **Liu X**, Huang H, Gao Y, et al. Visualization of gene therapy with a liver cancer-targeted adeno-associated virus 3 vector[J/OL]. Journal of Cancer, 2020, 11(8): 2192-2200. DOI:10.7150/jca.39579.
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 竞赛获奖
+1. 2024年第十六届中南六省（区）核医学学术交流会《核医学分子影像医师阅片竞赛》三等奖
+2. 2023年“襄十随神”城市群第二届自然科学优秀学术论文成果已发表类三等奖
+3. 2023年“襄十随神”城市群第二届自然科学优秀学术论文成果已发表类二等奖
+4. 2023年“核医好医”PET/CT全国病例大赛(中部赛区)探索之星奖
+5. 2022年“襄十随神”城市群首届自然科学优秀学术论文成果已发表类三等奖
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -73,5 +76,3 @@ redirect_from:
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
