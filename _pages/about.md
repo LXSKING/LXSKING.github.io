@@ -36,7 +36,7 @@ redirect_from:
 7. 湖北医药学院, 研究生科技创新项目, YC2019039, 肝癌靶向载体scrAAV3介导基因治疗可视化的实验研究, 2019-03至2020-06, 2万元, 已结题, 主持
 8. 国家自然科学基金委员会, 青年项目, 81401447, 心肌特异性启动子引导的多模态报告基因显像活体监测干细胞移植治疗缺血性心脏疾病的显像研究, 2015-01至2017-12, 23万元, 已结题, 参加
 
-# 📝 代表性成果 
+<h1 id="代表性成果">📝 代表性成果</h1>
 1. **Liu X S**, Xu Y, Dai L S, et al. The potential of MCM8 as a biomarker in esophageal carcinoma: a comprehensive analysis integrating m6a methylation and angiogenesis[J/OL]. European Journal of Medical Research, 2025, 30(1): 373. DOI:10.1186/s40001-025-02541-3.
 2. **Liu X S**, Pei Z J. 18F-FDG PET/CT in the diagnosis and treatment of atypical extensive skin lesions in extranodal natural killer/T-cell lymphoma, nasal type: a case report[J/OL]. Frontiers in Oncology, 2025, 15. DOI:10.3389/fonc.2025.1480661.
 3. **Liu X S**, Xie J, Wu R M, et al. Expression patterns of MCM8 in lung adenocarcinoma and its correlation with key biological processes[J/OL]. European Journal of Medical Research, 2025, 30(1): 149. DOI:10.1186/s40001-025-02407-8.
