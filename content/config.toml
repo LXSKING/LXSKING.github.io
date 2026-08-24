@@ -23,7 +23,7 @@ location_details = [
 google_scholar = "https://scholar.google.co.uk/citations?user=VnJ0pkYAAAAJ"
 orcid = "https://orcid.org/0000-0002-3663-1096"
 github = "https://github.com/LXSKING"
-Semantic Scholar = "https://www.semanticscholar.org/author/Xu-Sheng-Liu/2135809251"
+semantic_Scholar = "https://www.semanticscholar.org/author/Xu-Sheng-Liu/2135809251"
 
 [features]
 # Show a like button on the about page
