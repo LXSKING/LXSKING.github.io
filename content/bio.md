@@ -1,5 +1,5 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am currently a Ph.D. candidate in Imaging Medicine and Nuclear Medicine at Soochow University under the supervision of Professor [Zhi-Jun Pei](https://www.sdfey.com/doctor/detail/6661.html). 
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+My research primarily focuses on molecular imaging and precision diagnosis and treatment in nuclear medicine, including SPECT/CT and PET/CT-based molecular functional imaging, as well as molecularly targeted functional imaging and theranostic strategies for cancer. My current research interests center on the identification of tumor molecular biomarkers and the development of precision diagnostic and therapeutic strategies based on glycolytic metabolic reprogramming.
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+In terms of research achievements, I have received the Third Prize of the Hubei Provincial Science and Technology Progress Award. I have participated in one project funded by the National Natural Science Foundation of China and have served as the principal investigator of three provincial-level research projects. To date, I have published more than 30 papers in domestic and international academic journals. Over the past five years, I have published 20 SCI-indexed articles as the first author or corresponding author, with a cumulative impact factor of nearly 100. I have also been granted two Chinese national invention patents.
